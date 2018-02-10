@@ -1,0 +1,11 @@
+{
+    "name": "xiaotiancheng/yaftest",
+    "description": "test such yaf",
+    "authors": [
+        {
+            "name": "GabyCheng",
+            "email": "644949524@qq.com"
+        }
+    ],
+    "require": {}
+}
